@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, Python🐍, HTML, CSS, Bootstrap, JS, React**
 
-- 📫 How to reach me **ssembatisaac@gmail.com**
+- 📫 How to reach me **ssembatyaisaac1999@gmail.com**
 
 - ⚡ Fun fact **I get the job done**
 
