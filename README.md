@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [an article (blogging site)](https://tales-to-tell.herokuapp.com/)
 
-- 🌱 I’m currently learning **odoo, flutter and machine learning**
+- 🌱 I’m currently learning and improving my skills in **C#**
+
+- 🌱 I have experience in **odoo, flutter and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ssembatyaisaac](https://github.com/ssembatyaisaac)
 
